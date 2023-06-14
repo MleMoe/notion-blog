@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'cyber notion in pink',
   domain: 'notion.cyberpink.cn',
-  author: '荒山茉莉',
+  author: 'MleMoe',
 
   // open graph metadata (optional)
   description: '技术随想',
